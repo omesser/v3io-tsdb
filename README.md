@@ -1,9 +1,12 @@
-[![Build Status](https://github.com/v3io/v3io-tsdb/workflows/CI/badge.svg)](https://github.com/v3io/v3io-tsdb/actions)
+[![Travis Build Status](https://travis-ci.org/v3io/v3io-tsdb.svg?branch=master)](https://travis-ci.org/v3io/v3io-tsdb)
+[![GH Build Status](https://github.com/v3io/v3io-tsdb/workflows/CI/badge.svg)](https://github.com/v3io/v3io-tsdb/actions)
+
 
 # V3IO-TSDB
 Iguazio API lib for time-series DB access and Prometheus TSDB storage driver. 
 
 > Note: This project is still under development, it requires the latest 1.7 release of iguazio DB (with Blob functions)
+
 
 ## Overview
 Iguazio provides a real-time flexible document database engine which accelerates popular BigData and open-source 
